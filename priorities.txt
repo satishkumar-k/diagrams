@@ -1,0 +1,17 @@
+
+
+1. GIT
+2. JENKINS --- MAVEN / DEPLOY
+
+3. AZURE CONTAINER SERVICE
+4. DOCKER
+5. 
+
+
+now :
+
+git ---jenkins ---docker image for drupal
+
+docker image repository
+
+
